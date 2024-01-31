@@ -30,8 +30,9 @@ Bu web uygulaması, kullanıcıların bir ülkenin bilgilerini arayabilmeleri ve
 
 ![s0](https://github.com/devcraftipek/WorldVista-asenkron-/assets/90203389/f577db6d-735b-472d-921e-b1a4c35801c4)
 ![s3](https://github.com/devcraftipek/WorldVista-asenkron-/assets/90203389/19d45d22-553f-4264-8da4-7ee167d2c7e1)
-![s1](https://github.com/devcraftipek/WorldVista-asenkron-/assets/90203389/21090c7e-c632-4de8-97fa-579a1c3b2fd3)
+![s1](https://github.com/devcraftipek/WorldVista-asenkron-/assets/90203389/43e63eb3-88ff-4cb0-b8d2-7228af2f316e)
 ![s4](https://github.com/devcraftipek/WorldVista-asenkron-/assets/90203389/53b4780c-f943-4544-ab6c-347f88367ed6)
+
 
 
 
